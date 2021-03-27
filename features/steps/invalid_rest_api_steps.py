@@ -19,5 +19,5 @@ def step_impl(context):
         parm=json.loads(context.parameters)
         resp = http_util(url=context.url, parm=parm)
         assert resp.get("code") == -1
-    except requests.HTTPError as e:
-        e.strerror
+    except:
+        raise
