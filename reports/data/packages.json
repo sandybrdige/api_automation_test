@@ -1,0 +1,434 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "for rest api illegal -- @1.1 different invalid parameters",
+    "uid" : "99128349994875f5",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616857598625,
+      "stop" : 1616857599609,
+      "duration" : 984
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{\"instrument_name\":\"ET_CRO\",\"timeframe\":\"5m\"}" ]
+  }, {
+    "name" : "for rest api illegal -- @1.2 different invalid parameters",
+    "uid" : "d8dd8f46d45a5ba",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616857599610,
+      "stop" : 1616857601340,
+      "duration" : 1730
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{\"instrument_name\":\"\",\"timeframe\":\"5m\"}" ]
+  }, {
+    "name" : "for rest api illegal -- @1.3 different invalid parameters",
+    "uid" : "fba7a73f42cc408a",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616857601341,
+      "stop" : 1616857602285,
+      "duration" : 944
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{\"instrument_name\":\"\",\"timeframe\":\"\"}" ]
+  }, {
+    "name" : "for rest api illegal -- @1.4 different invalid parameters",
+    "uid" : "6dbca83f2f280cd6",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616857602286,
+      "stop" : 1616857603175,
+      "duration" : 889
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{\"instrument_name\":\"ETH_CRO\",\"timeframe\":\"56m\"}" ]
+  }, {
+    "name" : "for rest api illegal -- @1.5 different invalid parameters",
+    "uid" : "d2793f151c2dca8b",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616857603176,
+      "stop" : 1616857604076,
+      "duration" : 900
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{\"instrument_name\":\"ET_CRO\",\"timeframe\":\"56m\"}" ]
+  }, {
+    "name" : "for rest api illegal -- @1.6 different invalid parameters",
+    "uid" : "f9f77528889a8843",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616857604077,
+      "stop" : 1616857604962,
+      "duration" : 885
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{\"instrument_name\":null,\"timeframe\":\"5m\"}" ]
+  }, {
+    "name" : "for rest api illegal -- @1.7 different invalid parameters",
+    "uid" : "7b233861c3519394",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616857604963,
+      "stop" : 1616857605831,
+      "duration" : 868
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{\"instrument_name\":\"ETH_CRO\",\"timeframe\":null}" ]
+  }, {
+    "name" : "for rest api illegal -- @1.8 different invalid parameters",
+    "uid" : "b7d95e7c06068fc0",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616857605832,
+      "stop" : 1616857606750,
+      "duration" : 918
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{\"instrument_name\":null,\"timeframe\":null}" ]
+  }, {
+    "name" : "for rest api testing -- @1.1 different valid instrument_name",
+    "uid" : "1ad7aa1e6617e1d9",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616857606755,
+      "stop" : 1616857608011,
+      "duration" : 1256
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{\"instrument_name\":\"BTC_USDT\",\"timeframe\":\"5m\"}" ]
+  }, {
+    "name" : "for rest api testing -- @1.2 different valid instrument_name",
+    "uid" : "b70b431cf2e7536",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616857608012,
+      "stop" : 1616857609240,
+      "duration" : 1228
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{\"instrument_name\":\"ETH_CRO\",\"timeframe\":\"5m\"}" ]
+  }, {
+    "name" : "for rest api testing -- @2.1 different valid timeframe",
+    "uid" : "c5c65d3c55dcc4a2",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616857609241,
+      "stop" : 1616857611516,
+      "duration" : 2275
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{\"instrument_name\":\"ETH_CRO\",\"timeframe\":\"1m\"}" ]
+  }, {
+    "name" : "for rest api testing -- @2.2 different valid timeframe",
+    "uid" : "640fe53b60154441",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616857611517,
+      "stop" : 1616857613778,
+      "duration" : 2261
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{\"instrument_name\":\"ETH_CRO\",\"timeframe\":\"5m\"}" ]
+  }, {
+    "name" : "for rest api testing -- @2.3 different valid timeframe",
+    "uid" : "a0e698cae34fbad1",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616857613779,
+      "stop" : 1616857615064,
+      "duration" : 1285
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{\"instrument_name\":\"ETH_CRO\",\"timeframe\":\"15m\"}" ]
+  }, {
+    "name" : "for rest api testing -- @2.4 different valid timeframe",
+    "uid" : "e582207a8eec5e82",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616857615065,
+      "stop" : 1616857616414,
+      "duration" : 1349
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{\"instrument_name\":\"ETH_CRO\",\"timeframe\":\"30m\"}" ]
+  }, {
+    "name" : "for rest api testing -- @2.5 different valid timeframe",
+    "uid" : "25e1625d688e500b",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616857616415,
+      "stop" : 1616857617732,
+      "duration" : 1317
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{\"instrument_name\":\"ETH_CRO\",\"timeframe\":\"1h\"}" ]
+  }, {
+    "name" : "for rest api testing -- @2.6 different valid timeframe",
+    "uid" : "b59239fde528d9b4",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616857617733,
+      "stop" : 1616857619315,
+      "duration" : 1582
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{\"instrument_name\":\"ETH_CRO\",\"timeframe\":\"4h\"}" ]
+  }, {
+    "name" : "for rest api testing -- @2.7 different valid timeframe",
+    "uid" : "3c95e44cad790ff7",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616857619316,
+      "stop" : 1616857620556,
+      "duration" : 1240
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{\"instrument_name\":\"ETH_CRO\",\"timeframe\":\"6h\"}" ]
+  }, {
+    "name" : "for rest api testing -- @2.8 different valid timeframe",
+    "uid" : "f90aacdb70ab4230",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616857620557,
+      "stop" : 1616857621840,
+      "duration" : 1283
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{\"instrument_name\":\"ETH_CRO\",\"timeframe\":\"12h\"}" ]
+  }, {
+    "name" : "for rest api testing -- @2.9 different valid timeframe",
+    "uid" : "b216087fd5ddb2a4",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616857621841,
+      "stop" : 1616857623295,
+      "duration" : 1454
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{\"instrument_name\":\"ETH_CRO\",\"timeframe\":\"1D\"}" ]
+  }, {
+    "name" : "for rest api testing -- @2.10 different valid timeframe",
+    "uid" : "d15e05f1e34f718a",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616857623296,
+      "stop" : 1616857624218,
+      "duration" : 922
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{\"instrument_name\":\"ETH_CRO\",\"timeframe\":\"7D\"}" ]
+  }, {
+    "name" : "for rest api testing -- @2.11 different valid timeframe",
+    "uid" : "790c241f03d63f9d",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616857624219,
+      "stop" : 1616857625098,
+      "duration" : 879
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{\"instrument_name\":\"ETH_CRO\",\"timeframe\":\"14D\"}" ]
+  }, {
+    "name" : "for rest api testing -- @2.12 different valid timeframe",
+    "uid" : "dd6771b1e43750c7",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616857625099,
+      "stop" : 1616857626042,
+      "duration" : 943
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{\"instrument_name\":\"ETH_CRO\",\"timeframe\":\"1M\"}" ]
+  }, {
+    "name" : "For websocket api testing -- @1.1 different invalid parm",
+    "uid" : "4742d874d3858057",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616857626044,
+      "stop" : 1616857636221,
+      "duration" : 10177
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "4", "{\"id\": 11,\"method\": \"subscribe\",\"params\": {\"channels\": [\"book.ETh_CRO.150\"]},\"nonce\": 1587523073344}" ]
+  }, {
+    "name" : "For websocket api testing -- @1.2 different invalid parm",
+    "uid" : "a74ec286a9bd4614",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616857636222,
+      "stop" : 1616857644635,
+      "duration" : 8413
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "4", "{\"id\": 11,\"method\": \"subscribe\",\"params\": {\"channels\": [\"book.ETa_CRO.10\"]},\"nonce\": 1587523073344}" ]
+  }, {
+    "name" : "For websocket api testing -- @1.3 different invalid parm",
+    "uid" : "549c0d934f1241b4",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616857644637,
+      "stop" : 1616857651091,
+      "duration" : 6454
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "4", "{\"id\": 11,\"method\": \"subscribe\",\"params\": {\"channels\": []},\"nonce\": 1587523073344}" ]
+  }, {
+    "name" : "For websocket api testing -- @1.4 different invalid parm",
+    "uid" : "e748b5bd141dedaa",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616857651092,
+      "stop" : 1616857657503,
+      "duration" : 6411
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "4", "{\"id\": 11,\"method\": \"subscribe\",\"params\": {\"channels\": null},\"nonce\": 1587523073344}" ]
+  }, {
+    "name" : "For websocket api testing -- @1.1 different valid parm",
+    "uid" : "e74ff978f2592b3b",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616857657506,
+      "stop" : 1616857662360,
+      "duration" : 4854
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "4", "{\"id\": 11,\"method\": \"subscribe\",\"params\": {\"channels\": [\"book.ETH_CRO.150\"]},\"nonce\": 1587523073344}" ]
+  }, {
+    "name" : "For websocket api testing -- @1.2 different valid parm",
+    "uid" : "3b914ee6daaa485",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616857662361,
+      "stop" : 1616857666782,
+      "duration" : 4421
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "4", "{\"id\": 11,\"method\": \"subscribe\",\"params\": {\"channels\": [\"book.ETH_CRO.10\"]},\"nonce\": 1587523073344}" ]
+  }, {
+    "name" : "For websocket api testing -- @1.3 different valid parm",
+    "uid" : "1760d2780173c805",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616857666784,
+      "stop" : 1616857670519,
+      "duration" : 3735
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "4", "{\"id\": 11,\"method\": \"subscribe\",\"params\": {\"channels\": [\"book.BTC_USDT.10\"]},\"nonce\": 1587523073344}" ]
+  }, {
+    "name" : "For websocket api testing -- @1.4 different valid parm",
+    "uid" : "e04679663945ebd0",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616857670520,
+      "stop" : 1616857674399,
+      "duration" : 3879
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "4", "{\"id\": 11,\"method\": \"subscribe\",\"params\": {\"channels\": [\"book.BTC_USDT.150\"]},\"nonce\": 1587523073344}" ]
+  }, {
+    "name" : "For websocket api testing -- @1.5 different valid parm",
+    "uid" : "ddc1a15ba6962c8c",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616857674400,
+      "stop" : 1616857678889,
+      "duration" : 4489
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "4", "{\"id\": 11,\"method\": \"subscribe\",\"params\": {\"channels\": [\"book.BTC_USDT.9\"]},\"nonce\": 1587523073344}" ]
+  }, {
+    "name" : "For websocket api testing -- @1.6 different valid parm",
+    "uid" : "43623ae525d33091",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616857678903,
+      "stop" : 1616857683091,
+      "duration" : 4188
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "4", "{\"id\": 11,\"method\": \"subscribe\",\"params\": {\"channels\": [\"book.BTC_USDT.15\"]},\"nonce\": 1587523073344}" ]
+  }, {
+    "name" : "For websocket api testing -- @1.7 different valid parm",
+    "uid" : "e785356c747813b6",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1616857683092,
+      "stop" : 1616857688338,
+      "duration" : 5246
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "4", "{\"id\": 11,\"method\": \"subscribe\",\"params\": {\"channels\": [\"book.BTC_USDT.153\"]},\"nonce\": 1587523073344}" ]
+  } ]
+}

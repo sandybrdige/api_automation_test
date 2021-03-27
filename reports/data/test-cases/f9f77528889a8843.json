@@ -1,0 +1,102 @@
+{
+  "uid" : "f9f77528889a8843",
+  "name" : "for rest api illegal -- @1.6 different invalid parameters",
+  "fullName" : "REST API ILLEGAL TESTING: for rest api illegal",
+  "historyId" : "f51d0b1331bec3779b94343bfdea0dbe",
+  "time" : {
+    "start" : 1616857604077,
+    "stop" : 1616857604962,
+    "duration" : 885
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I hava a REST API with a invalid parm",
+      "time" : {
+        "start" : 1616857604078,
+        "stop" : 1616857604078,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When I Input the invalid {\"instrument_name\":null,\"timeframe\":\"5m\"}",
+      "time" : {
+        "start" : 1616857604078,
+        "stop" : 1616857604079,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then the response is expect",
+      "time" : {
+        "start" : 1616857604079,
+        "stop" : 1616857604962,
+        "duration" : 883
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "feature",
+    "value" : "REST API ILLEGAL TESTING"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "parameters",
+    "value" : "{\"instrument_name\":null,\"timeframe\":\"5m\"}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f9f77528889a8843.json",
+  "parameterValues" : [ "{\"instrument_name\":null,\"timeframe\":\"5m\"}" ]
+}

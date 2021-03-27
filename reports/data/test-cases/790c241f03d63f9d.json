@@ -1,0 +1,102 @@
+{
+  "uid" : "790c241f03d63f9d",
+  "name" : "for rest api testing -- @2.11 different valid timeframe",
+  "fullName" : "REST API testing: for rest api testing",
+  "historyId" : "d656b0162f68ca1bdf080d3ab3c78323",
+  "time" : {
+    "start" : 1616857624219,
+    "stop" : 1616857625098,
+    "duration" : 879
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I hava a REST API which is GET-METHODS",
+      "time" : {
+        "start" : 1616857624220,
+        "stop" : 1616857624220,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When I Input {\"instrument_name\":\"ETH_CRO\",\"timeframe\":\"14D\"}",
+      "time" : {
+        "start" : 1616857624220,
+        "stop" : 1616857624220,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then the response is true",
+      "time" : {
+        "start" : 1616857624220,
+        "stop" : 1616857625098,
+        "duration" : 878
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "feature",
+    "value" : "REST API testing"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "parameters",
+    "value" : "{\"instrument_name\":\"ETH_CRO\",\"timeframe\":\"14D\"}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "790c241f03d63f9d.json",
+  "parameterValues" : [ "{\"instrument_name\":\"ETH_CRO\",\"timeframe\":\"14D\"}" ]
+}

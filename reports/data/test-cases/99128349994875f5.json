@@ -1,0 +1,102 @@
+{
+  "uid" : "99128349994875f5",
+  "name" : "for rest api illegal -- @1.1 different invalid parameters",
+  "fullName" : "REST API ILLEGAL TESTING: for rest api illegal",
+  "historyId" : "08e3befc38f6709150969fd6ac85e714",
+  "time" : {
+    "start" : 1616857598625,
+    "stop" : 1616857599609,
+    "duration" : 984
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I hava a REST API with a invalid parm",
+      "time" : {
+        "start" : 1616857598626,
+        "stop" : 1616857598626,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When I Input the invalid {\"instrument_name\":\"ET_CRO\",\"timeframe\":\"5m\"}",
+      "time" : {
+        "start" : 1616857598627,
+        "stop" : 1616857598627,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then the response is expect",
+      "time" : {
+        "start" : 1616857598627,
+        "stop" : 1616857599609,
+        "duration" : 982
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "feature",
+    "value" : "REST API ILLEGAL TESTING"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "parameters",
+    "value" : "{\"instrument_name\":\"ET_CRO\",\"timeframe\":\"5m\"}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "99128349994875f5.json",
+  "parameterValues" : [ "{\"instrument_name\":\"ET_CRO\",\"timeframe\":\"5m\"}" ]
+}

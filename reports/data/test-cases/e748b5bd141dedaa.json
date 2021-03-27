@@ -1,0 +1,105 @@
+{
+  "uid" : "e748b5bd141dedaa",
+  "name" : "For websocket api testing -- @1.4 different invalid parm",
+  "fullName" : "WEBSOCKET API testing: For websocket api testing",
+  "historyId" : "f78debfb122b37965fae192b232383a7",
+  "time" : {
+    "start" : 1616857651092,
+    "stop" : 1616857657503,
+    "duration" : 6411
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I hava a WEBSOKCET API with a invalid parm",
+      "time" : {
+        "start" : 1616857651093,
+        "stop" : 1616857651093,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When I reg invalid 4 and {\"id\": 11,\"method\": \"subscribe\",\"params\": {\"channels\": null},\"nonce\": 1587523073344}",
+      "time" : {
+        "start" : 1616857651093,
+        "stop" : 1616857651094,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then the websocket response is expect",
+      "time" : {
+        "start" : 1616857651094,
+        "stop" : 1616857657503,
+        "duration" : 6409
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "feature",
+    "value" : "WEBSOCKET API testing"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "looptime",
+    "value" : "4"
+  }, {
+    "name" : "parm",
+    "value" : "{\"id\": 11,\"method\": \"subscribe\",\"params\": {\"channels\": null},\"nonce\": 1587523073344}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e748b5bd141dedaa.json",
+  "parameterValues" : [ "4", "{\"id\": 11,\"method\": \"subscribe\",\"params\": {\"channels\": null},\"nonce\": 1587523073344}" ]
+}

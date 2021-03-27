@@ -1,0 +1,105 @@
+{
+  "uid" : "a74ec286a9bd4614",
+  "name" : "For websocket api testing -- @1.2 different invalid parm",
+  "fullName" : "WEBSOCKET API testing: For websocket api testing",
+  "historyId" : "95b2cf989883a1d43b71add6751b4d47",
+  "time" : {
+    "start" : 1616857636222,
+    "stop" : 1616857644635,
+    "duration" : 8413
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I hava a WEBSOKCET API with a invalid parm",
+      "time" : {
+        "start" : 1616857636223,
+        "stop" : 1616857636223,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When I reg invalid 4 and {\"id\": 11,\"method\": \"subscribe\",\"params\": {\"channels\": [\"book.ETa_CRO.10\"]},\"nonce\": 1587523073344}",
+      "time" : {
+        "start" : 1616857636223,
+        "stop" : 1616857636224,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then the websocket response is expect",
+      "time" : {
+        "start" : 1616857636224,
+        "stop" : 1616857644635,
+        "duration" : 8411
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "feature",
+    "value" : "WEBSOCKET API testing"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "looptime",
+    "value" : "4"
+  }, {
+    "name" : "parm",
+    "value" : "{\"id\": 11,\"method\": \"subscribe\",\"params\": {\"channels\": [\"book.ETa_CRO.10\"]},\"nonce\": 1587523073344}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a74ec286a9bd4614.json",
+  "parameterValues" : [ "4", "{\"id\": 11,\"method\": \"subscribe\",\"params\": {\"channels\": [\"book.ETa_CRO.10\"]},\"nonce\": 1587523073344}" ]
+}

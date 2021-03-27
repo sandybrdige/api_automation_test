@@ -1,0 +1,105 @@
+{
+  "uid" : "e785356c747813b6",
+  "name" : "For websocket api testing -- @1.7 different valid parm",
+  "fullName" : "WEBSOCKET API testing: For websocket api testing",
+  "historyId" : "c221f8e38694722c8eede553c57f299a",
+  "time" : {
+    "start" : 1616857683092,
+    "stop" : 1616857688338,
+    "duration" : 5246
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I hava a WEBSOKCET API",
+      "time" : {
+        "start" : 1616857683093,
+        "stop" : 1616857683093,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When I reg 4 and {\"id\": 11,\"method\": \"subscribe\",\"params\": {\"channels\": [\"book.BTC_USDT.153\"]},\"nonce\": 1587523073344}",
+      "time" : {
+        "start" : 1616857683094,
+        "stop" : 1616857683094,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then the websocket response is true",
+      "time" : {
+        "start" : 1616857683094,
+        "stop" : 1616857688338,
+        "duration" : 5244
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "feature",
+    "value" : "WEBSOCKET API testing"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "looptime",
+    "value" : "4"
+  }, {
+    "name" : "parm",
+    "value" : "{\"id\": 11,\"method\": \"subscribe\",\"params\": {\"channels\": [\"book.BTC_USDT.153\"]},\"nonce\": 1587523073344}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e785356c747813b6.json",
+  "parameterValues" : [ "4", "{\"id\": 11,\"method\": \"subscribe\",\"params\": {\"channels\": [\"book.BTC_USDT.153\"]},\"nonce\": 1587523073344}" ]
+}

@@ -1,0 +1,331 @@
+[ {
+  "uid" : "ddc1a15ba6962c8c",
+  "name" : "For websocket api testing -- @1.5 different valid parm",
+  "time" : {
+    "start" : 1616857674400,
+    "stop" : 1616857678889,
+    "duration" : 4489
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "43623ae525d33091",
+  "name" : "For websocket api testing -- @1.6 different valid parm",
+  "time" : {
+    "start" : 1616857678903,
+    "stop" : 1616857683091,
+    "duration" : 4188
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b7d95e7c06068fc0",
+  "name" : "for rest api illegal -- @1.8 different invalid parameters",
+  "time" : {
+    "start" : 1616857605832,
+    "stop" : 1616857606750,
+    "duration" : 918
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6dbca83f2f280cd6",
+  "name" : "for rest api illegal -- @1.4 different invalid parameters",
+  "time" : {
+    "start" : 1616857602286,
+    "stop" : 1616857603175,
+    "duration" : 889
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b59239fde528d9b4",
+  "name" : "for rest api testing -- @2.6 different valid timeframe",
+  "time" : {
+    "start" : 1616857617733,
+    "stop" : 1616857619315,
+    "duration" : 1582
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1ad7aa1e6617e1d9",
+  "name" : "for rest api testing -- @1.1 different valid instrument_name",
+  "time" : {
+    "start" : 1616857606755,
+    "stop" : 1616857608011,
+    "duration" : 1256
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "549c0d934f1241b4",
+  "name" : "For websocket api testing -- @1.3 different invalid parm",
+  "time" : {
+    "start" : 1616857644637,
+    "stop" : 1616857651091,
+    "duration" : 6454
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b216087fd5ddb2a4",
+  "name" : "for rest api testing -- @2.9 different valid timeframe",
+  "time" : {
+    "start" : 1616857621841,
+    "stop" : 1616857623295,
+    "duration" : 1454
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a74ec286a9bd4614",
+  "name" : "For websocket api testing -- @1.2 different invalid parm",
+  "time" : {
+    "start" : 1616857636222,
+    "stop" : 1616857644635,
+    "duration" : 8413
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "790c241f03d63f9d",
+  "name" : "for rest api testing -- @2.11 different valid timeframe",
+  "time" : {
+    "start" : 1616857624219,
+    "stop" : 1616857625098,
+    "duration" : 879
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3b914ee6daaa485",
+  "name" : "For websocket api testing -- @1.2 different valid parm",
+  "time" : {
+    "start" : 1616857662361,
+    "stop" : 1616857666782,
+    "duration" : 4421
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a0e698cae34fbad1",
+  "name" : "for rest api testing -- @2.3 different valid timeframe",
+  "time" : {
+    "start" : 1616857613779,
+    "stop" : 1616857615064,
+    "duration" : 1285
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f90aacdb70ab4230",
+  "name" : "for rest api testing -- @2.8 different valid timeframe",
+  "time" : {
+    "start" : 1616857620557,
+    "stop" : 1616857621840,
+    "duration" : 1283
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d8dd8f46d45a5ba",
+  "name" : "for rest api illegal -- @1.2 different invalid parameters",
+  "time" : {
+    "start" : 1616857599610,
+    "stop" : 1616857601340,
+    "duration" : 1730
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e582207a8eec5e82",
+  "name" : "for rest api testing -- @2.4 different valid timeframe",
+  "time" : {
+    "start" : 1616857615065,
+    "stop" : 1616857616414,
+    "duration" : 1349
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d15e05f1e34f718a",
+  "name" : "for rest api testing -- @2.10 different valid timeframe",
+  "time" : {
+    "start" : 1616857623296,
+    "stop" : 1616857624218,
+    "duration" : 922
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e785356c747813b6",
+  "name" : "For websocket api testing -- @1.7 different valid parm",
+  "time" : {
+    "start" : 1616857683092,
+    "stop" : 1616857688338,
+    "duration" : 5246
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e04679663945ebd0",
+  "name" : "For websocket api testing -- @1.4 different valid parm",
+  "time" : {
+    "start" : 1616857670520,
+    "stop" : 1616857674399,
+    "duration" : 3879
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b70b431cf2e7536",
+  "name" : "for rest api testing -- @1.2 different valid instrument_name",
+  "time" : {
+    "start" : 1616857608012,
+    "stop" : 1616857609240,
+    "duration" : 1228
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4742d874d3858057",
+  "name" : "For websocket api testing -- @1.1 different invalid parm",
+  "time" : {
+    "start" : 1616857626044,
+    "stop" : 1616857636221,
+    "duration" : 10177
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e748b5bd141dedaa",
+  "name" : "For websocket api testing -- @1.4 different invalid parm",
+  "time" : {
+    "start" : 1616857651092,
+    "stop" : 1616857657503,
+    "duration" : 6411
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e74ff978f2592b3b",
+  "name" : "For websocket api testing -- @1.1 different valid parm",
+  "time" : {
+    "start" : 1616857657506,
+    "stop" : 1616857662360,
+    "duration" : 4854
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c5c65d3c55dcc4a2",
+  "name" : "for rest api testing -- @2.1 different valid timeframe",
+  "time" : {
+    "start" : 1616857609241,
+    "stop" : 1616857611516,
+    "duration" : 2275
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "640fe53b60154441",
+  "name" : "for rest api testing -- @2.2 different valid timeframe",
+  "time" : {
+    "start" : 1616857611517,
+    "stop" : 1616857613778,
+    "duration" : 2261
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fba7a73f42cc408a",
+  "name" : "for rest api illegal -- @1.3 different invalid parameters",
+  "time" : {
+    "start" : 1616857601341,
+    "stop" : 1616857602285,
+    "duration" : 944
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3c95e44cad790ff7",
+  "name" : "for rest api testing -- @2.7 different valid timeframe",
+  "time" : {
+    "start" : 1616857619316,
+    "stop" : 1616857620556,
+    "duration" : 1240
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d2793f151c2dca8b",
+  "name" : "for rest api illegal -- @1.5 different invalid parameters",
+  "time" : {
+    "start" : 1616857603176,
+    "stop" : 1616857604076,
+    "duration" : 900
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7b233861c3519394",
+  "name" : "for rest api illegal -- @1.7 different invalid parameters",
+  "time" : {
+    "start" : 1616857604963,
+    "stop" : 1616857605831,
+    "duration" : 868
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dd6771b1e43750c7",
+  "name" : "for rest api testing -- @2.12 different valid timeframe",
+  "time" : {
+    "start" : 1616857625099,
+    "stop" : 1616857626042,
+    "duration" : 943
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "99128349994875f5",
+  "name" : "for rest api illegal -- @1.1 different invalid parameters",
+  "time" : {
+    "start" : 1616857598625,
+    "stop" : 1616857599609,
+    "duration" : 984
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1760d2780173c805",
+  "name" : "For websocket api testing -- @1.3 different valid parm",
+  "time" : {
+    "start" : 1616857666784,
+    "stop" : 1616857670519,
+    "duration" : 3735
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f9f77528889a8843",
+  "name" : "for rest api illegal -- @1.6 different invalid parameters",
+  "time" : {
+    "start" : 1616857604077,
+    "stop" : 1616857604962,
+    "duration" : 885
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "25e1625d688e500b",
+  "name" : "for rest api testing -- @2.5 different valid timeframe",
+  "time" : {
+    "start" : 1616857616415,
+    "stop" : 1616857617732,
+    "duration" : 1317
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
